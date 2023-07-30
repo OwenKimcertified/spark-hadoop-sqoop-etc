@@ -1,6 +1,6 @@
 ### --- spark --- 
-###  spark structure
+###  about spark structure, worker node's data caching
 ###  how to handle RDD, 
-###  RDD transform, action part, 
-###  key - value RDD
+###  about RDD transform, action part, 
+###  about key - value RDD
 
