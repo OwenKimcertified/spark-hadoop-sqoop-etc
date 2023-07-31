@@ -4,4 +4,6 @@
 ###  about RDD transform, action part, 
 ###  about reduction methods
 ###  about key - value RDD
-
+###  about key - value operations 
+###  ㄴ tranforms : groupbykey, reducebykey, mapvalues, keys, joins(full, left, right)
+###  ㄴ actions : countbykey
