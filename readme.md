@@ -9,4 +9,4 @@
 ###  ㄴ actions : countbykey
 ###  make dataframe, use spark-sql 
 ###  what is spark streaming + about processing 
-###  spark streaming with kafka -> streaming monitoring
+###  spark streaming with kafka : streaming data monitoring
