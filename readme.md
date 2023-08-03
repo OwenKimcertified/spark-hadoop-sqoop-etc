@@ -1,3 +1,7 @@
+# spark 3.2.4, hadoop 2.7.1
+
+### content
+
 ### --- spark (python, window) --- 
 ###  about spark structure, worker node's data caching
 ###  how to handle RDD, 
