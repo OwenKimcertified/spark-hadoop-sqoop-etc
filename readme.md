@@ -14,7 +14,7 @@
 ###  make dataframe, use spark-sql 
 ###  what is spark streaming + about processing 
 ###  spark streaming with kafka : streaming data monitoring
-###  api_ETL_pipe_line, OTM Transaction splalchemy
+###  api_ETL_pipe_line, OTM Transaction splalchemy (with airflow)
 
 ### --- hadoop (window) ---
 ### yarn, namenode, datanode
