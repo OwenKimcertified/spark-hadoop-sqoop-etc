@@ -1,4 +1,5 @@
-# spark 3.2.4, hadoop 2.7.1 (window), linux(ubuntu) openjdk 8, hadoop 3.3.4 spark 3.2.4
+# spark 3.2.4, hadoop 2.7.1 (window)
+# linux(ubuntu) openjdk 8, hadoop 3.3.4 spark 3.2.4
 
 ### content
 
